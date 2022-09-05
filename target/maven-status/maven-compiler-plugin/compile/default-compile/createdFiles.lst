@@ -1,0 +1,6 @@
+servlets\PruebaServlet.class
+beans\cita.class
+test\OperacionesBD.class
+beans\Servicios.class
+beans\Cliente.class
+connection\DBConnection.class
